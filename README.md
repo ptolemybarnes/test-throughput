@@ -1,7 +1,7 @@
 # throughput-test
 
 This repo contains some stuff for demonstrating the performance characteristics (i.e throughput) of two different concurrency models applied to web servers:
-- Concurrency via a thread-per-request with expanding threadpool (ruby).
+- Concurrency via a thread-per-request with expanding threadpool (ruby with webrick).
 - Concurrency via a single-thread with event loop (node)
 
 Try:

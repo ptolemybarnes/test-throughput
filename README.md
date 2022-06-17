@@ -13,3 +13,7 @@ Try:
 
 # observations
 - It's interesting to see that a supposedly non-production ruby server like webrick can scale perfectly fine to a high number of concurrent requests. It's only beyond ~120 concurrent requests that it starts to fall behind node in terms of throughput.
+
+# resources
+- [The Practical Effects of the GVL on Scaling in Ruby](https://www.speedshop.co/2020/05/11/the-ruby-gvl-and-scaling.html)
+- [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)

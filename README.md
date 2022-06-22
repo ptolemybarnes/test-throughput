@@ -17,3 +17,4 @@ Try:
 # resources
 - [The Practical Effects of the GVL on Scaling in Ruby](https://www.speedshop.co/2020/05/11/the-ruby-gvl-and-scaling.html)
 - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [BLOCKING VS NON-BLOCKING PROCESSES | Ptolemy Barnes](https://detachedhead.wordpress.com/2015/02/05/blocking-vs-non-blocking-processes/)
